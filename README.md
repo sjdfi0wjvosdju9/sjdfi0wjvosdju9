@@ -5,7 +5,7 @@ from public ATS feeds (Greenhouse, Lever, Ashby, Workable) and normalised to ann
 The same companies are re-read every week, so two snapshots can be compared instead of
 guessing whether a number moved.
 
-**Latest snapshot: 2026-10-24** — [snapshot-2026-10-24](https://github.com/sjdfi0wjvosdju9/job-salary-open-data/releases/tag/snapshot-2026-10-24) · 266 companies · 18,671 live postings · 8,042 with a published range (43%) · median $200,000
+**Latest snapshot: 2026-10-26** — [snapshot-2026-10-26](https://github.com/sjdfi0wjvosdju9/job-salary-open-data/releases/tag/snapshot-2026-10-26) · 266 companies · 18,758 live postings · 8,049 with a published range (43%) · median $200,000
 
 p25 $150,000 / p75 $253,000 · CC BY 4.0 · regenerated weekly, no login anywhere.
 
